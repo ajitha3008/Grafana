@@ -63,3 +63,10 @@ Dashboard settings:
 4. Use **Transformations** → **Merge** to show all metrics in one table.
 
 Use the app UI at http://localhost:8080/ui to see the same metrics and current values.
+
+<img width="1457" height="822" alt="Screenshot 2026-02-15 at 12 10 47 AM" src="https://github.com/user-attachments/assets/a2005ae4-5360-4dc6-8ecb-a7595319d82c" />
+<img width="1454" height="818" alt="Screenshot 2026-02-15 at 12 11 06 AM" src="https://github.com/user-attachments/assets/8bde4df0-dd49-4f4e-832a-71475b6a01ff" />
+
+
+
+
